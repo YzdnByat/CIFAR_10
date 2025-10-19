@@ -27,4 +27,6 @@ augmentation, learning curves, and a confusion matrix.
 ---
 
 ## 📂 Repository Structure
-
+├── README.md
+├── requirements.txt
+├── notebooks
